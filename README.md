@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Ankits's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayankit)](https://github.com/grayankti/github-readme-stats)
 
 <!--
 **grayankit/grayankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
