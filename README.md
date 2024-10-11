@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayankit&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grayankit&layout=donut)](https://github.com/grayankit/github-readme-stats)
+![Ankit's GitHub stats](https://master-plan-grayankit.vercel.app/api?username=grayankit&show_icons=true&theme=radical)
+[![Top Langs](https://master-plan-grayankit.app/api/top-langs/?username=grayankit&layout=donut)](https://github.com/grayankit/github-readme-stats)
 <!--
 **grayankit/grayankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
