@@ -1,16 +1,52 @@
-## Hi there 👋
-![Ankit's GitHub stats](https://github-readme-stats-psi-snowy.vercel.app/api?username=grayankit&show_icons=true&theme=radical)
-<!--
-**grayankit/grayankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ankit
 
-Here are some ideas to get you started:
+I build software, break things, figure out why they broke, and occasionally build something to fix the problem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ • Kotlin • Rust • TypeScript  
+Linux enthusiast — I use Arch, by the way.
+
+## What I work on
+
+- Android applications and UI development
+- Cross-platform apps and experiments with new technologies
+- Developer tools and utilities for Linux
+- Web applications, APIs, and cloud deployments
+- Open-source projects and learning by building
+
+## Tech stack
+
+**Languages:** C, C++, Kotlin, Java, Rust, TypeScript, JavaScript
+
+**Mobile:** Android, Kotlin, Jetpack Compose
+
+**Web:** Next.js, React, HTML, CSS
+
+**Systems & Tools:** Linux, Arch Linux, Git, Neovim, Bash
+
+**Cloud:** Cloudflare, OpenNext
+
+## Currently
+
+- Building Android applications with Kotlin and Jetpack Compose
+- Exploring Rust and native desktop application development
+- Working on web projects and developer tools
+- Learning by contributing to open-source software
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=grayankit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=grayankit&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=grayankit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grayankit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+</p>
+
+---
+
+*Building things, learning things, and trying to understand how everything works under the hood.*
