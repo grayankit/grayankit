@@ -48,5 +48,8 @@ Linux enthusiast — I use Arch, by the way.
 </p>
 
 ---
+## Adventure Time
+
+[![wakatime](https://wakatime.com/badge/user/8e4c6ad6-6f09-45e2-a95b-07e632df3b6f.svg)](https://wakatime.com/@8e4c6ad6-6f09-45e2-a95b-07e632df3b6f)
 
 *Building things, learning things, and trying to understand how everything works under the hood.*
