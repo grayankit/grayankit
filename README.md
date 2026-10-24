@@ -15,8 +15,6 @@ Linux enthusiast — I use Arch, by the way.
 
 ## Tech stack
 
-## Tech stack
-
 **Languages**
 
 <p>
@@ -68,11 +66,6 @@ Linux enthusiast — I use Arch, by the way.
   <img src="https://streak-stats.demolab.com?user=grayankit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grayankit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
-
----
 ## Adventure Time
 
 [![wakatime](https://wakatime.com/badge/user/8e4c6ad6-6f09-45e2-a95b-07e632df3b6f.svg)](https://wakatime.com/@8e4c6ad6-6f09-45e2-a95b-07e632df3b6f)
